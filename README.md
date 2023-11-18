@@ -2,6 +2,7 @@
 
 Term Project for ***CSE 472: Machine Learning Sessional*** offered by the Department of CSE, BUET.
 
+![](static/images/bangla_plag.png)
 
 ## Project Overview
 This work presents a comprehensive exploration into the domain of plagiarism detection in Bangla language documents, with a focus on the development of a deep learning-based system for accurate identification and quantification of instances of plagiarism. The primary objective of this research is to establish a benchmark for Bangla plagiarism detection by creating a dedicated dataset that encompasses various types of plagiarism.
