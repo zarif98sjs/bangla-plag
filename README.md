@@ -1,4 +1,4 @@
-# Bangla Plagiarism Dataset and Detection: A Benchmark
+# Bangla Plagiarism Dataset and Detection
 
 Term Project for ***CSE 472: Machine Learning Sessional*** offered by the Department of CSE, BUET.
 
