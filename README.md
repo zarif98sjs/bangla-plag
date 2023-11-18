@@ -22,7 +22,7 @@ A presentation on the project is available [here](https://docs.google.com/presen
 Available at ***Hugging Face*** 🤗 datasets   [bangla-plagiarism-dataset](https://huggingface.co/datasets/zarif98sjs/bangla-plagiarism-dataset)
 
 ```bibtex
-@misc{zarif-bn-plag:2023,
+@misc{bn-plag:2023,
   title={Bangla plagiarism dataset},
   author={Alam, Md. Zarif Ul and Alam, Ramisa and Mahmood, Md. Tareq},
   year={2023},
